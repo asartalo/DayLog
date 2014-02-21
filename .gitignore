@@ -2,6 +2,7 @@
 *.o
 *.a
 *.so
+assets/*
 
 # Folders
 _obj
