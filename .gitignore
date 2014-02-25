@@ -4,6 +4,9 @@
 *.so
 assets/*
 
+# Some unnecessary files
+.DS_Store
+
 # Folders
 _obj
 _test
